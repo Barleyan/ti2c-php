@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pendaftaran Siswa Baru | SMK Coding</title>
+    <title>Pendaftaran Siswa Baru | Politeknik Negeri Madiun</title>
 </head>
 
 <body>
